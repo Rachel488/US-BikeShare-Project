@@ -1,5 +1,3 @@
-# Travel Destinations
-
-A simple app to keep track of destinations I'd like to visit.
+Using Python to create insights into a bike rental business, bikeshare.
 
 changing for the refactoring branch
