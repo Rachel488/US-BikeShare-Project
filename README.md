@@ -2,12 +2,13 @@
 
 ### Date created
 Include the date you created this project and README file.
+05/27/2023
 
 ### Project Title
-Replace the Project Title
+GitHub Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Using Python to provide insight into bike rentals in major US cities.
 
 ### Files used
 Include the files used
